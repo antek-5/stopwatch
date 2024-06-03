@@ -21,6 +21,12 @@ body {
 
     .timer-container {
         font-size: 80px;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        width: 600px;
+        padding: 0 65px;
+        max-width: 100vw;
     }
 
     .buttons-container {
